@@ -38,5 +38,11 @@
      "examples": "https://www.quora.com/What-is-a-public-cloud-with-an-example"
 
     }
-  
+   {
+     "id": "6",
+     "model": " cloud",
+     "defination": "https://www.cloudflare.com/learning/cloud/what-is-a-public-cloud/",
+     "examples": "https://www.quora.com/What-is-a-public-cloud-with-an-example"
+
+    }
 ]
